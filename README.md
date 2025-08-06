@@ -1,6 +1,6 @@
 # Object Oriented Programming in C++
 
-This repository contains all my **lab tasks**, **assignments**, **quizzes**, and **project** from the *Object Oriented Programming (OOP)* course, written in **C++**.
+This repository contains all my **lab tasks**, **assignments**, **quizzes**, and **project** from the Object Oriented Programming (OOP) course, written in **C++**.
 
 ## 📂 Contents
 
